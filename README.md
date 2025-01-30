@@ -9,12 +9,12 @@
   3. Data Preparation
   4. Data Modeling
   5. Result Evaulation Deployment
- 
- 
 * **Data Cleaning & Exploration:** Clean the data using Python (Pandas and NumPy).
   * see [google colab](https://github.com/ELBrown11/Analyzing-Customer-Churn-using-Machine-Learning/blob/main/CustomerChurn.ipynb)   
 * **Data Analysis:** Answer questions produced during business understanding to further understand how customer churn effects the business.
 * **Machine Learning Model Applications :** Implement supervised learning models to assess relationship between features/customer characteristics and customer churn.
+* **Wrote a Blog**: Wrote a blog post detailing the execution of the project.
+  * [see here](https://medium.com/@ebonibrown2017/this-is-why-customers-churn-and-how-crisp-dm-will-make-you-a-data-pro-b00227773fb4)
 
 # Languages & Libraries
 * languages: Python
