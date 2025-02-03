@@ -1,4 +1,4 @@
-# Analyzing Customer Churn
+# Analyzing and Predicting Customer Churn
 
 ## Project Outline:
 * **Data Collection:** used [data](https://assets.datacamp.com/production/repositories/5993/datasets/00187c4ac7192534646c5b71b260f0de880c6954/Case%20Study%20Analyzing%20Customer%20Churn%20in%20Power%20BI%20-%20Exercises%20and%20Datasets.pdf)
