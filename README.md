@@ -14,7 +14,7 @@
 * **Data Analysis:** Answer questions produced during business understanding to further understand how customer churn effects the business.
 * **Machine Learning Model Applications :** Implement supervised learning models to assess relationship between features/customer characteristics and customer churn.
 * **Wrote a Blog**: Wrote a blog post detailing the execution of the project.
-  * [see here](https://medium.com/@ebonibrown2017/this-is-why-customers-churn-and-how-crisp-dm-will-make-you-a-data-pro-b00227773fb4)
+  * [see here](https://medium.com/@ebonibrown2017/why-customers-leave-insights-from-churn-analysis-2793f12e65c3)
 
 # Languages & Libraries
 * languages: Python
