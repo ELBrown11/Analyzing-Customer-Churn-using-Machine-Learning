@@ -13,7 +13,7 @@
   * see [google colab](https://github.com/ELBrown11/Analyzing-Customer-Churn-using-Machine-Learning/blob/main/CustomerChurn.ipynb)   
 * **Data Analysis:** Answer questions produced during business understanding to further understand how customer churn effects the business.
 * **Machine Learning Model Applications :** Implement supervised learning models to assess relationship between features/customer characteristics and customer churn.
-* **Wrote a Blog**: Wrote a blog post detailing the execution of the project.
+* **Wrote a Blog**: Wrote a blog post explaining the finding of the business understanding questions.
   * [see here](https://medium.com/@ebonibrown2017/why-customers-leave-insights-from-churn-analysis-2793f12e65c3)
 
 # Languages & Libraries
